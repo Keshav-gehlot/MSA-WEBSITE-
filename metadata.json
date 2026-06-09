@@ -1,0 +1,6 @@
+{
+  "name": "MSA Landing",
+  "description": "A premium, glassmorphic landing page for Microsoft Student Ambassadors featuring fluid typography, 3D carousel effects, and sleek SVG animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
